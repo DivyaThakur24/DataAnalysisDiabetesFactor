@@ -22,7 +22,7 @@ Numpy, Pandas, Matplotlib, Seaborn
 <img src="https://s15.postimg.cc/3ltyiro3v/Horizontal_Bar_Plot.png" width=450 />
 
 ### Box Plot
-<img src="https://s15.postimg.cc/9a099rv23/Box_Plot.png" width=450 />
+<img src="https://s15.postimg.cc/9a099rv23/Box_Plot.png" width=350 />
 
 ### Correlation
 <img src="https://s15.postimg.cc/xqif4461n/Correlation.png" width=450 />
