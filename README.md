@@ -16,10 +16,10 @@ Numpy, Pandas, Matplotlib, Seaborn
 ## Data Visualization
 
 ### Histogram
-<img src="https://s15.postimg.cc/5cczkm8bf/Histogram.png" width=350 />
+<img src="https://s15.postimg.cc/5cczkm8bf/Histogram.png" width=450 />
 
 ### Bar Plot
-<img src="https://s15.postimg.cc/3ltyiro3v/Horizontal_Bar_Plot.png" width=350 />
+<img src="https://s15.postimg.cc/3ltyiro3v/Horizontal_Bar_Plot.png" width=450 />
 
 ### Correlation
-<img src="https://s15.postimg.cc/xqif4461n/Correlation.png" width=350 />
+<img src="https://s15.postimg.cc/xqif4461n/Correlation.png" width=450 />
